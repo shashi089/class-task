@@ -1,0 +1,15 @@
+.container {
+  height: 100vh;
+  width: 300px;
+}
+
+.container img {
+  height: 300px;
+}
+.container p {
+  padding: 10px;
+}
+
+.container div {
+  text-align: center;
+}
